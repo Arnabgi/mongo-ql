@@ -1,0 +1,20 @@
+{
+  "name": "mongo-ql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "startDev":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.9.0",
+    "apollo-server-express": "^3.9.0",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
