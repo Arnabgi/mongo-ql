@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "startDev":"nodemon index.js"
+    "startDev": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,7 +12,8 @@
     "apollo-server": "^3.9.0",
     "apollo-server-express": "^3.9.0",
     "express": "^4.18.1",
-    "graphql": "^16.5.0"
+    "graphql": "^16.5.0",
+    "mongoose": "^6.4.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.18"

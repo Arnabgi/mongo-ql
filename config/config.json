@@ -1,0 +1,14 @@
+{
+    "db_mongo_local": {
+        "host": "localhost",
+        "port": "27017",
+        "db": "test",
+        "username": "",
+        "password": "",
+        "pool": {
+            "maxPoolSize": 100,
+            "minPoolSize": 0,
+            "socketTimeoutMS": 30000
+        }
+    }
+}
