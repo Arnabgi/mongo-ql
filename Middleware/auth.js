@@ -15,7 +15,7 @@ module.exports ={
             }
 
         } catch (error) {
-            throw error;
+            throw new Error("Authorization failed");
         }
     }
 }
